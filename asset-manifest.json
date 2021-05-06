@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mahajan-gourav123/indian-company2/static/css/main.31382807.chunk.css",
-    "main.js": "/mahajan-gourav123/indian-company2/static/js/main.6ba5745e.chunk.js",
-    "main.js.map": "/mahajan-gourav123/indian-company2/static/js/main.6ba5745e.chunk.js.map",
+    "main.js": "/mahajan-gourav123/indian-company2/static/js/main.a99dd51b.chunk.js",
+    "main.js.map": "/mahajan-gourav123/indian-company2/static/js/main.a99dd51b.chunk.js.map",
     "runtime-main.js": "/mahajan-gourav123/indian-company2/static/js/runtime-main.ab9ed4d7.js",
     "runtime-main.js.map": "/mahajan-gourav123/indian-company2/static/js/runtime-main.ab9ed4d7.js.map",
     "static/css/2.05186903.chunk.css": "/mahajan-gourav123/indian-company2/static/css/2.05186903.chunk.css",
@@ -39,6 +39,6 @@
     "static/css/2.05186903.chunk.css",
     "static/js/2.c6b1363d.chunk.js",
     "static/css/main.31382807.chunk.css",
-    "static/js/main.6ba5745e.chunk.js"
+    "static/js/main.a99dd51b.chunk.js"
   ]
 }
